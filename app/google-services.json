@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630077456064",
+    "firebase_url": "https://mitienda-873e2.firebaseio.com",
+    "project_id": "mitienda-873e2",
+    "storage_bucket": "mitienda-873e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630077456064:android:b0a6d6e2201ff0db",
+        "android_client_info": {
+          "package_name": "com.example.carlosasprilla.mitienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630077456064-bej3h34fnhumcmr9blebm0uqlo530glc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carlosasprilla.mitienda",
+            "certificate_hash": "3e00fdcbbfb1b6fa5e949489e9068d2533bd508a"
+          }
+        },
+        {
+          "client_id": "630077456064-8m15eb02cmh8h1dh0402ahgrlfmvjv5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dOkF9n4Ilc4xS5oExqtCmPZ3oReZMHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630077456064-8m15eb02cmh8h1dh0402ahgrlfmvjv5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
